@@ -1,2 +1,2 @@
 ## Hi there 👋
-I am Riley Sim, and ITE Student that is currently relearning Python.
+I am Riley Sim, an ITE Student that is currently relearning Python.
